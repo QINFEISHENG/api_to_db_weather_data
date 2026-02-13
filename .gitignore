@@ -1,0 +1,22 @@
+# --- Python / caches ---
+__pycache__/
+*.py[cod]
+
+# --- Virtual environments ---
+weather/
+.venv/
+venv/
+
+# --- Environment variables / secrets ---
+.env
+
+# --- Local database files ---
+data.db
+*.sqlite
+*.sqlite3
+
+# --- OS files ---
+.DS_Store
+
+# --- Logs (optional) ---
+*.log
